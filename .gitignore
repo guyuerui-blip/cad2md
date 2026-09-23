@@ -1,0 +1,19 @@
+# self-test fixtures (generated at runtime, not source)
+_selftest_cube.stl
+_selftest_icosphere.stl
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+.venv/
+venv/
+
+# editor / os
+.DS_Store
+.idea/
+.vscode/
+*.swp
